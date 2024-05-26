@@ -8,3 +8,4 @@ No one is responsible for the reliable of the information provided here. Use it 
  - [Hardware info](./sw_hardware_info.md)
  - [Disk subsystem](./sw_disk.md)
  - [Logging subsystem](./sw_logs.md)
+ - [USB subsystem](./sw_usb.md)
