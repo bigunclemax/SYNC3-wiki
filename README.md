@@ -10,4 +10,5 @@ No one is responsible for the reliable of the information provided here. Use it 
  - [Graphics subsystem](./sw_drm_gpu.md)
  - [Logging subsystem](./sw_logs.md)
  - [USB subsystem](./sw_usb.md)
+ - [Unpacking firmware](./sw_unpack.md)
  - [Updating process](./sw_update.md)
