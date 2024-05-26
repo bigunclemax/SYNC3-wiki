@@ -6,3 +6,4 @@ No one is responsible for the reliable of the information provided here. Use it 
 
 ## Content list
  - [Disk subsystem](./sw_disk.md)
+ - [Logging subsystem](./sw_logs.md)
